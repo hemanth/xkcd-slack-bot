@@ -1,6 +1,6 @@
-# xkcd-slack-bot [![Build Status](https://travis-ci.org/hemanth/xkcd-slack-bot.svg?branch=master)](https://travis-ci.org/hemanth/xkcd-slack-bot)
+# xkcd-slack-bot
 
-> XKCD images for slack chats!
+> XKCD comic bot for slack chats!
 
 
 ## Install
@@ -31,7 +31,7 @@ xkcdSlackBot(data);
 ### xkcdSlackBot(auth)
 
 #### auth
-> Object with `name` and `token`
+> Object with `name`, `token` and `channel`
 
 ## CLI
 
