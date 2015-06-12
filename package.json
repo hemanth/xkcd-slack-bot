@@ -1,33 +1,33 @@
 {
-	"name": "xkcd-slack-bot",
-	"version": "1.0.0",
-	"description": "XKCD comic bot for slack chats!",
-	"license": "MIT",
-	"repository": "hemanth/xkcd-slack-bot",
-	"author": {
-		"name": "hemanth.hm",
-		"email": "hemanth.hm@gmail.com",
-		"url": "h3manth.com"
-	},
-	"engines": {
-		"node": ">=0.10.0"
-	},
-	"scripts": {
-		"test": "mocha"
-	},
-	"files": [
-		"index.js"
-	],
-	"bin": {
-		"xkcd-slack-bot": "cli.js"
-	},
-	"keywords": [
-		""
-	],
-	"dependencies": {
-		"minimist": "^1.1.1",
-		"slackbots": "^0.3.0",
-		"xkcd-imgs": "^1.0.0"
-	},
-	"devDependencies": {}
+  "name": "xkcd-slack-bot",
+  "version": "1.0.1",
+  "description": "XKCD comic bot for slack chats!",
+  "license": "MIT",
+  "repository": "hemanth/xkcd-slack-bot",
+  "author": {
+    "name": "hemanth.hm",
+    "email": "hemanth.hm@gmail.com",
+    "url": "h3manth.com"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "files": [
+    "index.js"
+  ],
+  "bin": {
+    "xkcd-slack-bot": "cli.js"
+  },
+  "keywords": [
+    ""
+  ],
+  "dependencies": {
+    "minimist": "^1.1.1",
+    "slackbots": "^0.3.0",
+    "xkcd-imgs": "^1.0.0"
+  },
+  "devDependencies": {}
 }
