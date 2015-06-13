@@ -22,7 +22,7 @@ var auth = {
 	channel: '<CHANNEL_NAME>'
 };
 
-xkcdSlackBot(data);
+xkcdSlackBot(auth);
 ```
 
 
