@@ -1,6 +1,6 @@
 {
   "name": "xkcd-slack-bot",
-  "version": "1.0.4",
+  "version": "2.0.0",
   "description": "XKCD comic bot for slack chats!",
   "license": "MIT",
   "repository": "hemanth/xkcd-slack-bot",
