@@ -28,7 +28,7 @@
   ],
   "dependencies": {
     "minimist": "^1.1.1",
-    "slackbots": "^1.0.1",
+    "slackbots": "^1.0.2",
     "xkcd-imgs": "^1.0.1"
   },
   "devDependencies": {}
